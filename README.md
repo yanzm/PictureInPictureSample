@@ -1,5 +1,6 @@
 # PictureInPictureSample
 
+Android 12 で
 ```
 MainActivity
 ↓
