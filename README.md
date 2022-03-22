@@ -1,5 +1,6 @@
 # PictureInPictureSample
 
+```
 MainActivity
 ↓
 start VideoActivity ボタンをクリック
@@ -13,3 +14,4 @@ PinP解除
 バックボタン
 ↓
 start SecondActivity　ボタンをクリックするとフリーズ
+```
